@@ -1,0 +1,3 @@
+acticom GmbH
+Fraunhofer HHI
+Gerrit Schulte <gerrit.schulte@acticom.de>
